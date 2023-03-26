@@ -1,3 +1,7 @@
+package mermoderna;
+
+import mermoderna.CadastrarProduto;
+
 import java.sql.SQLException;
 import java.util.Scanner;
 
